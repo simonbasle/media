@@ -10,4 +10,4 @@ The files in the table below either have special instructions/notes on sharing o
 
 | File                   | License (if ≠) | Notes                                |
 | ---------------------- | -------------- | ------------------------------------ |
-
+| [images/springBootAndCouchbase.png](images/springBootAndCouchbase.png) | [![Creative Commons License CC-By-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)]("http://creativecommons.org/licenses/by-nc-sa/4.0/) | The `Spring` logo ("green leaf") is © `Pivotal, Inc.` and the `Couchbase` logo ("red couch") is © `Couchbase, Inc.`.<br/>This is intended under fair use. Do not reuse as a logo / icon or commercial derivative work. |
